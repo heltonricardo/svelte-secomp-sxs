@@ -12,6 +12,7 @@
         margin: 0 auto;
         width: 90%;
         max-width: 950px;
+        text-align: center;
     }
 
     .titulo {
