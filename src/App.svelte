@@ -73,3 +73,15 @@
 		<span> Técnico em Informática, Mar 2013 - Nov 2014 </span>
 	</div>
 </Secao>
+
+<Secao titulo="Conquistas">
+	<ul>
+		<li>3º lugar na III Maratona de Programação IFTEC 2020</li>
+		<li>6º lugar na Maratona Estadual de Programação INTERIF 2020</li>
+		<li>
+			4º lugar na primeira etapa da Maratona Estadual de Programação
+			INTERIF 2019
+		</li>
+		<li>1º lugar na Maratona de Programação IFSPCJO 2019</li>
+	</ul>
+</Secao>
