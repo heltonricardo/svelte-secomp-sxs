@@ -2,9 +2,12 @@
 	import Capa from "./Capa.svelte";
 	import Secao from "./Secao.svelte";
 	import Rodape from "./Rodape.svelte";
+	import Divisao from "./Divisao.svelte";
 </script>
 
 <Capa />
+
+<Divisao />
 
 <Secao titulo="Sobre Mim" centralizarTexto={true}>
 	<p>
@@ -86,5 +89,7 @@
 		<li>1º lugar na Maratona de Programação IFSPCJO 2019</li>
 	</ul>
 </Secao>
+
+<Divisao />
 
 <Rodape />
