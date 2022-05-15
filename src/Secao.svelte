@@ -1,6 +1,6 @@
 <script>
     export let titulo;
-    export let centralizarTexto;
+    export let centralizarTexto = false;
 </script>
 
 <section class="secao" class:centralizar={centralizarTexto}>

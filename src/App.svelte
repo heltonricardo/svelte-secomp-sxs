@@ -17,7 +17,7 @@
 	</p>
 </Secao>
 
-<Secao titulo="Competências" centralizarTexto={false}>
+<Secao titulo="Competências">
 	<ul>
 		<li>
 			<strong>Proficiência:</strong> C, Python, Java, Hibernate, Spring, JavaScript,
