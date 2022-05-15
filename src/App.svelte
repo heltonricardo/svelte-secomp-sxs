@@ -1,8 +1,8 @@
 <script>
-	import Capa from "./Capa.svelte";
-	import Secao from "./Secao.svelte";
-	import Rodape from "./Rodape.svelte";
-	import Divisao from "./Divisao.svelte";
+	import Capa from "./Componentes/Capa.svelte";
+	import Secao from "./Componentes/Secao.svelte";
+	import Rodape from "./Componentes/Rodape.svelte";
+	import Divisao from "./Componentes/Divisao.svelte";
 </script>
 
 <Capa />
