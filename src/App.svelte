@@ -5,6 +5,6 @@
 
 <Capa />
 
-<Secao texto="Secao 1" />
-<Secao texto="Secao 2" />
-<Secao texto="Secao 3" />
+<Secao titulo="Secao 1" />
+<Secao titulo="Secao 2" />
+<Secao titulo="Secao 3" />

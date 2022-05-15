@@ -1,8 +1,10 @@
 <script>
-    export let texto;
+    export let titulo;
 </script>
 
-<section class="secao">{texto}</section>
+<section class="secao">
+    <h1 class="titulo">{titulo}</h1>
+</section>
 
 <style>
     .secao {
@@ -11,9 +13,20 @@
         max-width: 950px;
     }
 
+    .titulo {
+        font-size: 22px;
+        text-align: center;
+        margin-bottom: 40px;
+        text-transform: uppercase;
+    }
+
     @media screen and (min-width: 550px) {
         .secao {
             width: 80%;
+        }
+
+        .titulo {
+            font-size: 40px;
         }
     }
 </style>
