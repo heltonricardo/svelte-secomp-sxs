@@ -1,6 +1,7 @@
 <script>
 	import Capa from "./Capa.svelte";
 	import Secao from "./Secao.svelte";
+	import Rodape from "./Rodape.svelte";
 </script>
 
 <Capa />
@@ -85,3 +86,5 @@
 		<li>1º lugar na Maratona de Programação IFSPCJO 2019</li>
 	</ul>
 </Secao>
+
+<Rodape />
