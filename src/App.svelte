@@ -29,3 +29,26 @@
 		</li>
 	</ul>
 </Secao>
+
+<Secao titulo="Experiência">
+	<div>
+		<h2>INATEL - Instituto Nacional de Telecomunicações</h2>
+		<span>Backend Developer, Out 2021 - Atual</span>
+		<ul>
+			<li>Java, Hibernate e Spring</li>
+			<li>Docker, Kubernetes e Rancher</li>
+			<li>Git, GitHub e Azure Devops</li>
+		</ul>
+	</div>
+	<div>
+		<h2>
+			PRODAM - Empresa de Tecnologia da Informação e Comunicação do
+			Município de São Paulo
+		</h2>
+		<span>Estagiário de Engenharia de Software, Dez 2020 - Out 2021</span>
+		<ul>
+			<li>JavaScript, React, Angular, Vue.js e Svelte</li>
+			<li>Git, GitHub e Team Fondation Service</li>
+		</ul>
+	</div>
+</Secao>
