@@ -21,6 +21,8 @@
 	</p>
 </Secao>
 
+<Divisao />
+
 <Secao titulo="Competências">
 	<ul>
 		<li>
@@ -33,6 +35,8 @@
 		</li>
 	</ul>
 </Secao>
+
+<Divisao />
 
 <Secao titulo="Experiência">
 	<div>
@@ -57,6 +61,8 @@
 	</div>
 </Secao>
 
+<Divisao />
+
 <Secao titulo="Educação">
 	<div>
 		<h2>
@@ -77,6 +83,8 @@
 		<span> Técnico em Informática, Mar 2013 - Nov 2014 </span>
 	</div>
 </Secao>
+
+<Divisao />
 
 <Secao titulo="Conquistas">
 	<ul>
