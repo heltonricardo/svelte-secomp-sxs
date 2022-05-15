@@ -1,8 +1,13 @@
+<script>
+    import CaixaDeIcones from "./CaixaDeIcones.svelte";
+</script>
+
 <div class="fundo">
     <div class="centro">
         <img src="./img/foto.jpg" alt="Foto de Helton" class="foto">
         <h1 class="titulo">Helton Ricardo</h1>
         <h2 class="descricao">Software Developer</h2>
+        <CaixaDeIcones />
     </div>
 </div>
 
