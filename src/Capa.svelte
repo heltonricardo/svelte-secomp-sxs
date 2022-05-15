@@ -1,6 +1,6 @@
 <div class="fundo">
     <div class="centro">
-        
+        <img src="./img/foto.jpg" alt="Foto de Helton" class="foto">
     </div>
 </div>
 
@@ -18,5 +18,10 @@
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
+    }
+
+    .foto {
+        border-radius: 50%;
+        width: 250px;
     }
 </style>
