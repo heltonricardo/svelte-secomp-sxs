@@ -1,5 +1,9 @@
+<script>
+    const anoAtual = new Date().getFullYear();
+</script>
+
 <footer class="rodape">
-    <span>&copy; 2022 Helton Ricardo</span>
+    <span>&copy; {anoAtual} Helton Ricardo</span>
 </footer>
 
 <style>
