@@ -1,4 +1,8 @@
-<section class="secao">Testando seção...</section>
+<script>
+    export let texto;
+</script>
+
+<section class="secao">{texto}</section>
 
 <style>
     .secao {
