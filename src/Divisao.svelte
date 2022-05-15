@@ -14,4 +14,12 @@
     .espaco {
         height: 70px;
     }
+
+    .linha {
+        height: 1px;
+        width: 90%;
+        max-width: 950px;
+        border: none;
+        background-color: #ccc;
+    }
 </style>
