@@ -4,6 +4,7 @@
 
 <section class="secao">
     <h1 class="titulo">{titulo}</h1>
+    <slot />
 </section>
 
 <style>

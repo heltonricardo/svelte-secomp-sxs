@@ -5,6 +5,6 @@
 
 <Capa />
 
-<Secao titulo="Secao 1" />
-<Secao titulo="Secao 2" />
-<Secao titulo="Secao 3" />
+<Secao titulo="Seção 1">
+	Passando dados via slot para componente filho!
+</Secao>
