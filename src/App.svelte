@@ -16,3 +16,16 @@
 		arriscar no frontend usando JavaScript, React e Svelte.
 	</p>
 </Secao>
+
+<Secao titulo="Competências">
+	<ul>
+		<li>
+			<strong>Proficiência:</strong> C, Python, Java, Hibernate, Spring, JavaScript,
+			React, Svelte, HTML, CSS e DevOps
+		</li>
+		<li>
+			<strong>Aprendizagem:</strong> Design Patterns, Docker, Go, Rust, IA
+			e Machine Learning
+		</li>
+	</ul>
+</Secao>
