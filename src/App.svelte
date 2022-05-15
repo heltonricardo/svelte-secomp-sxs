@@ -52,3 +52,24 @@
 		</ul>
 	</div>
 </Secao>
+
+<Secao titulo="Educação">
+	<div>
+		<h2>
+			IFSP - Instituto Federal de Educação, Ciência e Tecnologia São Paulo
+		</h2>
+		<span>
+			Análise e Desenvolvimento de Sistemas, Mar 2019 - Jan 2022
+		</span>
+	</div>
+	<div>
+		<h2>UNITAU - Universidade de Taubaté</h2>
+		<span> Engenharia de Computação, Fev 2015 - Jul 2017 </span>
+	</div>
+	<div>
+		<h2>
+			IFSP - Instituto Federal de Educação, Ciência e Tecnologia São Paulo
+		</h2>
+		<span> Técnico em Informática, Mar 2013 - Nov 2014 </span>
+	</div>
+</Secao>
