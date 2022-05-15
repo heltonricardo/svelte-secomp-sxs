@@ -5,7 +5,7 @@
 
 <Capa />
 
-<Secao titulo="Sobre Mim">
+<Secao titulo="Sobre Mim" centralizarTexto={true}>
 	<p>
 		Sou analista e desenvolvedor de softwares e um entusiasta do mundo da
 		tecnologia.
@@ -17,7 +17,7 @@
 	</p>
 </Secao>
 
-<Secao titulo="Competências">
+<Secao titulo="Competências" centralizarTexto={false}>
 	<ul>
 		<li>
 			<strong>Proficiência:</strong> C, Python, Java, Hibernate, Spring, JavaScript,
