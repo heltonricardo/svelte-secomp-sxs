@@ -21,7 +21,7 @@
 	</p>
 </Secao>
 
-<Divisao />
+<Divisao modo="linha" />
 
 <Secao titulo="Competências">
 	<ul>
@@ -36,7 +36,7 @@
 	</ul>
 </Secao>
 
-<Divisao />
+<Divisao modo="linha" />
 
 <Secao titulo="Experiência">
 	<div>
@@ -61,7 +61,7 @@
 	</div>
 </Secao>
 
-<Divisao />
+<Divisao modo="linha" />
 
 <Secao titulo="Educação">
 	<div>
@@ -84,7 +84,7 @@
 	</div>
 </Secao>
 
-<Divisao />
+<Divisao modo="linha" />
 
 <Secao titulo="Conquistas">
 	<ul>
