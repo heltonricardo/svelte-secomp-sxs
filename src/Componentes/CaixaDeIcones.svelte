@@ -22,6 +22,11 @@
         justify-content: center;
     }
 
+    .icone:hover {
+        color: #222b42;
+        background-color: white;
+    }
+
     .icone {
         color: white;
         width: 30px;
