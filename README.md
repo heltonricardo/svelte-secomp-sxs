@@ -2,12 +2,12 @@
 
 Repositório clonado de [`sveltejs/template`](https://github.com/sveltejs/template) e adaptado para o minicurso.
 
-## Alterações relevantes
-- Alteração do nome do diretório padrão de build/deploy para hospedagem facilitada no GitHub Pages
+### Alterações relevantes
+- Nome do diretório padrão de build/deploy para hospedagem facilitada no GitHub Pages:
   - `public` → `docs`
 
-## Minicurso
+### Minicurso
 Construindo seu site portfólio com Svelte e hospedando de graça!
 
-## Descrição
+### Descrição
 Nesse curso, você usará Svelte — uma das tecnologias que mais têm se destacado em 2022 — para criar seu próprio site portfólio e ainda poderá hospedá-lo de graça na internet!
